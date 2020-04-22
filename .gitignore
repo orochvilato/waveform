@@ -1,0 +1,3 @@
+.pyenv/
+*.pyc
+__pycache__/
